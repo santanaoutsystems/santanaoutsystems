@@ -7,7 +7,7 @@ Hoje uno essa experiência de bancada com **software, dados e IA**.
 ### 🔧 No que estou trabalhando
 - **METRAVIZ**: SaaS de gestão de OS, calibração (incerteza GUM), qualificação térmica
   e ativos, com IA e Realidade Aumentada (repositório privado)
-- **SISMEVAM**: sistema de gestão para a comunidade MEVAM Goiânia
+- **SIS MEVAM-GYN**: sistema de gestão para a comunidade MEVAM GYN Goiânia
 - Graduação em **Inteligência Artificial** na FATESG (BI, Big Data, IoT, bancos NoSQL)
 
 ### 🧰 Ferramentas
