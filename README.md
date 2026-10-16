@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou o Ricardo 👋
 
-<!--
-**santanaoutsystems/santanaoutsystems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Formado em Mecatrônica com mais de 25 anos em **metrologia, calibração e assistência técnica**
+de equipamentos laboratoriais e hospitalares (GRUPO IGMAT, Goiânia).
+Hoje uno essa experiência de bancada com **software, dados e IA**.
 
-Here are some ideas to get you started:
+### 🔧 No que estou trabalhando
+- **METRAVIZ**: SaaS de gestão de OS, calibração (incerteza GUM), qualificação térmica
+  e ativos, com IA e Realidade Aumentada (repositório privado)
+- **SISMEVAM**: sistema de gestão para a comunidade MEVAM Goiânia
+- Graduação em **Inteligência Artificial** na FATESG (BI, Big Data, IoT, bancos NoSQL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Ferramentas
+Python · FastAPI · PostgreSQL · Pandas/NumPy · MongoDB · ESP32/IoT · Docker · Git
+
+### 📫 Contato
+[igmat.com.br](https://igmat.com.br)
